@@ -1,3 +1,16 @@
+
+![Screenshot 2023-10-30 at 10 25 46 PM](https://github.com/SunilKharsu/WeatherApp-MiniProject/assets/112311905/20875b68-d976-4069-89be-1e775d6ee1a0)
+
+![Screenshot 2023-10-30 at 10 26 48 PM](https://github.com/SunilKharsu/WeatherApp-MiniProject/assets/112311905/21864645-dd92-4605-91e4-c28789cf4715)
+
+![Screenshot 2023-10-30 at 10 28 38 PM](https://github.com/SunilKharsu/WeatherApp-MiniProject/assets/112311905/465d645f-766c-48d0-b47e-60dda4e1f9e3)
+
+![Screenshot 2023-10-30 at 10 29 48 PM](https://github.com/SunilKharsu/WeatherApp-MiniProject/assets/112311905/4870c856-c8d3-4505-8fc0-4b07d5ed235c)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
